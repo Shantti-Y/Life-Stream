@@ -1,0 +1,10 @@
+{
+  "name": "life-stream",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./index.js",
+  "scripts": {
+  },
+  "author": "Takahiro Yoshioka (Shantti_Y)",
+  "license": "MIT"
+}
